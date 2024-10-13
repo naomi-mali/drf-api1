@@ -65,7 +65,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '8000-naomimali-drfapi1-645ajjtgako.ws.codeinstitute-ide.net',
     'localhost',
-    'social-api1.herokuapp.com',
+    'social-api1-ba63b7ae14c7.herokuapp.com',
 ]
 
 if 'CLIENT_ORIGIN' in os.environ:
